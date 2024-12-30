@@ -47,4 +47,4 @@ If you’d like to follow this journey or contribute in any way:
 ---
 
 ## License
-All content in this repository is shared under the [MIT License](LICENSE), unless otherwise stated.
+All content in this repository is shared under the [MIT License](../LICENSE), unless otherwise stated.
